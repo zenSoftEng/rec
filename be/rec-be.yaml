@@ -1,5 +1,0 @@
-runtime: nodejs10
-service: rec-be
-env_variables:
-  ENV: "PRD"
-  DB_PASSWORD: "Blablabla17!"
